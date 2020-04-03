@@ -7,6 +7,8 @@ public class Main {
         System.out.println("commitowania");
         System.out.println("i");
         System.out.println("ponownie");
+        System.out.println(":)");
+        System.out.println(":)");
     }
 }
 
